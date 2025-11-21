@@ -15,7 +15,7 @@ Atualmente estudo **Engenharia de Software (6º período)** e desenvolvo projeto
 ## 🛠️ Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,html,css,sql" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cs,html,css,sql" />
 </p>
 
 <p>
