@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre mim
+##  Sobre mim
 Sou um desenvolvedor focado em aprender tecnologias de forma prática, criando soluções reais e evoluindo constantemente em backend, banco de dados e arquitetura de software.  
 Atualmente estudo **Engenharia de Software (6º período)** e desenvolvo projetos pessoais e acadêmicos nas áreas de Python, C#, Java, SQL e TypeScript.
 
