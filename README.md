@@ -28,8 +28,8 @@ Atualmente estudo **Engenharia de Software (6º período)** e desenvolvo projeto
 
 | Projeto | Descrição | Tecnologias | Envolvidos |
 |--------|-----------|-------------|------------|
-| **Preço Certo** | Aplicativo para comparação de preços em lojas locais, incentivando o comércio regional. | HTML • JS • Python • DB | Thiago Santana |
-| **ReserVou** | Sistema de reserva de hotéis com interface web e backend integrado. | C# • .NET • SQL Server • TypeScript | Thiago Santana + Gabriel-AS97 (fork/base) |
+| **Preço Certo** | Aplicativo para comparação de preços em lojas locais, incentivando o comércio regional. | HTML • JS • Python • DB | Thiago Santana + Gabriel-AS97 |
+| **ReserVou** | Sistema de reserva de hotéis com interface web e backend integrado. | C# • .NET • SQL Server • TypeScript | Thiago Santana + Gabriel-AS97 |
 
 ---
 
